@@ -45,13 +45,6 @@ article {
   background-color: #040404;
 }
 
-footer {
-  background-color: #777;
-  padding-top: 10px;
-  padding-bottom: 5%;
-  text-align: center;
-  color: white;
-}
 
 /* Responsive layout - makes the two columns/boxes stack on top of
 each other instead of next to each other, on small screens */
