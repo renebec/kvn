@@ -5,6 +5,9 @@
 
 body {
   font-family: garamond, georgia, sans-serif;
+  padding-left:1px;
+  background-color:black;
+  font-size:24px;
 }
 
 header {
@@ -71,7 +74,8 @@ td{
 
 p {
   padding-left:15px;
-  font-size:21px;
+  font-size:24px;
+  font-family: garamond, georgia, sans-serif;
 }
 
 /* Clear floats after the columns */
