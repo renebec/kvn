@@ -19,11 +19,9 @@ header {
   color: white;
 }
 
-th{
-  text-align: center;
-  padding: 5px;
 
-}
+
+
 
 .center {
   display: block;
@@ -42,7 +40,7 @@ th{
 
 img {
 
-  max-width: 30%;
+  max-width: 50%;
   min-width: 20%;
   height:auto;
   background: #666;
@@ -57,21 +55,6 @@ margin:0px 0px;
 font-size:24px;
 }
 
-
-
-.tg {
-  width: 100%
-}
-.tg td {
-  border-style: solid;
-  border-width: 1px
-}
-
-td{
-  text-align: center;
-  padding: 5px;
-
-}
 
 p {
   padding-left:15px;
@@ -101,16 +84,16 @@ background:grey;
 color:white;
 }
 
-table {
-  border-collapse: collapse;
-
-  width: 100%;
-
-tr:hover {background-color: #D6EEEE;}
-
-th:nth-child(even),td:nth-child(even) {
-  background-color: rgba(150, 212, 212, 0.4);
+table, th, td {
+  border:1px solid white;
+  font-family: courier;
+  font-size: 18px;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
 }
+
+
 
 footer {
   background-color: #777;
